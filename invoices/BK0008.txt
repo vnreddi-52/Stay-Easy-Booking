@@ -1,0 +1,57 @@
+===============StayEasy Hotel============Booking ID: BK0008
+Guest Name: helooo
+Phone: 9876543210
+Email: helooo@gmail.com
+Room Number: 101
+Room Type: Standard
+Check-in: 2026-11-09
+Check-out: 2026-11-16
+Number of Guests: 2
+==========NIGHT ==========
+Date: 2026-11-09
+Room Tariff: Rs 2500
+Extra Guest Charge: Rs 0
+GST Rate: 12.0%
+GST: Rs 270.0
+
+Date: 2026-11-10
+Room Tariff: Rs 2500
+Extra Guest Charge: Rs 0
+GST Rate: 12.0%
+GST: Rs 270.0
+
+Date: 2026-11-11
+Room Tariff: Rs 2500
+Extra Guest Charge: Rs 0
+GST Rate: 12.0%
+GST: Rs 270.0
+
+Date: 2026-11-12
+Room Tariff: Rs 2500
+Extra Guest Charge: Rs 0
+GST Rate: 12.0%
+GST: Rs 270.0
+
+Date: 2026-11-13
+Room Tariff: Rs 3000.0
+Extra Guest Charge: Rs 0
+GST Rate: 12.0%
+GST: Rs 324.0
+
+Date: 2026-11-14
+Room Tariff: Rs 3000.0
+Extra Guest Charge: Rs 0
+GST Rate: 12.0%
+GST: Rs 324.0
+
+Date: 2026-11-15
+Room Tariff: Rs 2500
+Extra Guest Charge: Rs 0
+GST Rate: 12.0%
+GST: Rs 270.0
+==========BILL==========Room Charges: Rs 18500.0
+Extra Charges: Rs 0
+7 Night Discount: Rs 1850.0
+Loyalty Discount: Rs 0
+GST: Rs 1998.0
+TOTAL AMOUNT: Rs 18648.0

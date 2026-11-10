@@ -1,0 +1,27 @@
+===============StayEasy Hotel============Booking ID: BK0001
+Guest Name: Rahul
+Phone: 9876543210
+Email: rahul@gmail.com
+Room Number: 101
+Room Type: Standard
+Check-in: 2026-11-09
+Check-out: 2026-11-11
+Number of Guests: 2
+==========NIGHT ==========
+Date: 2026-11-09
+Room Tariff: Rs 2500
+Extra Guest Charge: Rs 0
+GST Rate: 12.0%
+GST: Rs 300.0
+
+Date: 2026-11-10
+Room Tariff: Rs 2500
+Extra Guest Charge: Rs 0
+GST Rate: 12.0%
+GST: Rs 300.0
+==========BILL==========Room Charges: Rs 5000
+Extra Charges: Rs 0
+7 Night Discount: Rs 0
+Loyalty Discount: Rs 0
+GST: Rs 600.0
+TOTAL AMOUNT: Rs 5600.0
