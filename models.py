@@ -31,7 +31,7 @@ class StandardRoom(Room):
         
     def tariff(self, day):
         if day.weekday() in (4,5):
-            return 2500*1.20
+            return 2500*1.2
         return 2500
     def extra_guest(self, guests):
         return 0

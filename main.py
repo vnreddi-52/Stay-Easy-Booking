@@ -212,7 +212,7 @@ def create_booking():
     if room_type.capitalize() == "Standard":
         while True:
             breakfast_choice = input(
-                "Bro.. breakfast for 350 per guest per night ok? "
+                "Bro.. breakfast for 350 per guest per day ok? "
             ).strip().lower()
             if breakfast_choice in ("yes"):
                 include_breakfast = True
@@ -383,7 +383,6 @@ def check_out_booking():
     generate_invoice(bid, guest_data, r, check_in, check_out, guests, price_details)
     print("Guest checked out successfully")
 def cancel_booking():
-
     booking_id = input("Enter Booking ID: ").strip()
 
     # FEtch booking
@@ -489,6 +488,7 @@ def guest_stay_history():
         print("Status:",booking[6])
         print("Price: Rs.", booking[7])
 
+# mine extraaa for practice
 def booking_filter_status():
     status_list = [
     "ALL",
